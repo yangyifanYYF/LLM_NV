@@ -1,5 +1,5 @@
 # LLM_NV
-这是论文《基于拓扑图和大语言模型的灵活可控的社交导航》的开源代码。
+这是论文《基于拓扑图和大语言模型的灵活可控的社交导航》的开源代码。仿真视频见https://www.youtube.com/watch?v=fb73Obctw3E。
 
 <video src="./demo.mp4"></video>
 
