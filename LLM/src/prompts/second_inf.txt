@@ -1,0 +1,1 @@
+The following passage is an analysis of the guide point selection process in a mobile robot path planning task. The coordinates of the guide points are: {guiding_points}, which guide point did he finally choose? Your response should only be in the format [x, y], and shouldn't have any other words. '{content}'
